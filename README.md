@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**BolanosDavid/BolanosDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey there, i am David
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+React, Node, Java, Python
+
+
+## 🚀 About Me
+🧠 I'm currently enrolled as a student in the Computer Engineering programme at Universidad de Oviedo in Spain. I am in my second year and will finish in 2027.
+
+📫 You can contact me at davidfernando20005@gmail.com
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BolanosDavid&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
